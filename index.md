@@ -9,3 +9,5 @@ A collection of workings and interesting information picked up along the way tow
 
 - [GitHub](https://github.com/TrivialProof)
 - [ResearchGate](https://www.researchgate.net/profile/Eoin-Scanlon)
+
+![Lagrangian](https://smcatter.expressions.syr.edu/phy880/wp-content/uploads/sites/2/2015/01/cropped-Lagrangian.png)
