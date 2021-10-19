@@ -3,10 +3,9 @@ layout: page
 excerpt: "About Me..."
 ---
 
-I am a academic, hear me roar. I am an Assistant Professor at Oregon Health & Science University.
+A collection of workings and interesting information picked up along the way towards a PhD in Quantum Field Theory in Curved Spacetimes (QFTCS). All too often, I've found important steps omitted and I thought it might be useful to fill in some blanks. I also might post any interesting data analysis projects, for...fun? Professionally interested in the propagation of electromagnetic radiation.
 
 ## Current Interests and Projects:
 
-- Website Design
-- [GitHub Pages](http://laderast.github.io)
-- Academia
+- [GitHub](https://github.com/TrivialProof)
+- [ResearchGate](https://www.researchgate.net/profile/Eoin-Scanlon)
