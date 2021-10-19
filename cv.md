@@ -3,22 +3,29 @@ layout: resume
 ---
 ## Currently
 
-Current Position Description
+Chief Instructor of the Irish Defence Forces' Communications and Information Services (CIS) school.
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2005 - 2009`
+__NUI Galway__
+BSc Physics and Astrophysics
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2014 - 2015`
+__Institute of Technology Carlow__
+MSc Communications Technology 
 
-## Awards
+`2015 - 2017`
+__Dublin Institute of Technology__
+BSc Mathematics
 
-`2012`
-Name of Award, Organization 
+`2015 - 2018`
+__University College Dublin__
+MSc Data Analytics
+
+`2021 - 2026`
+__Technological University Dublin__
+PhD Theoretical Physics
 
 ## Publications
 
@@ -31,14 +38,6 @@ Article Title, Journal Title
 
 `1994`
 Article Title, Journal Title
-
-### Books
-
-`1994`
-Book Title, Journal Title
-
-`1994`
-Book Title, Journal Title
 
 
 ## Presentations
