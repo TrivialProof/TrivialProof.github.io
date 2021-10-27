@@ -1,7 +1,7 @@
 ---
 layout: resume
 ---
-## Currently
+# Currently
 
 Chief Instructor of the Irish Defence Forces' Communications and Information Services (CIS) school.
 
