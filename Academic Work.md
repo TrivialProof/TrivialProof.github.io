@@ -10,3 +10,14 @@ Abstract: So-called ultraviolet divergences create significant difficulties in t
 + [Thesis](https://github.com/TrivialProof/TrivialProof.github.io/blob/master/Thesis.pdf)
 + [Presentation](https://github.com/TrivialProof/TrivialProof.github.io/blob/master/Thesis%20Final%20Presentation.pdf)
 
+# Introduction to Radio Frequency Propagation 
+
+Suggested solutions to exercises for selected chapters of [Introduction to RF Propagation](https://onlinelibrary.wiley.com/doi/book/10.1002/0471743690) by John S. Seybold. 
+
++ [Chapter 1 (Introduction)](https://github.com/TrivialProof/RF-Propagation/blob/main/Chapter%201.pdf)
++ [Chapter 2 (EM and Radio Propagation](https://github.com/TrivialProof/RF-Propagation/blob/main/Chapter%202.pdf)
++ [Chapter 3 (Antenna Fundamentals)](https://github.com/TrivialProof/RF-Propagation/blob/main/Chapter%203.pdf)
++ [Chapter 4 (Communications Systems and Link Budget](https://github.com/TrivialProof/RF-Propagation/blob/main/Chapter%204.pdf)
++ [Chapter 6 (Atmospheric Effects)](https://github.com/TrivialProof/RF-Propagation/blob/main/Chapter%206.pdf)
+
+
